@@ -6,3 +6,5 @@ Download the dataset at: https://drive.google.com/file/d/1ZVlBu6cyQiyliDihYEb8QM
 Install GPy (https://sheffieldml.github.io/GPy/):
 
 	pip install gpy
+
+Examples of using the different functionalities are given in examples.ipynb
